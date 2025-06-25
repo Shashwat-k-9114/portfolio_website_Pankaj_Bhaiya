@@ -8,7 +8,7 @@ const educationData = [
 ];
 
 const Education = () => (
-  <Section>
+  <Section id="education">
     <SectionTitle>Education</SectionTitle>
     <Boxes>
       {educationData.map((edu, index) => (
