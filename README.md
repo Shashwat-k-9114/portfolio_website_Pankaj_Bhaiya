@@ -1,6 +1,3 @@
-Sure! Here's a clean, professional, and descriptive `README.md` tailored for your customized portfolio project for **Pankaj Bhaiya**:
-
----
 
 ```markdown
 # 💼 Personal Portfolio – Pankaj Bhaiya
@@ -36,7 +33,7 @@ This is a fully responsive personal portfolio website built with **React.js** an
 
 ## 📁 Folder Structure
 
-```
+
 
 portfolio\_website\_Pankaj\_Bhaiya/
 ├── public/
@@ -51,7 +48,6 @@ portfolio\_website\_Pankaj\_Bhaiya/
 │   └── pages/
 └── README.md
 
-````
 
 ---
 
